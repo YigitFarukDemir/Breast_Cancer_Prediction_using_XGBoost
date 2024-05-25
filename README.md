@@ -2,6 +2,6 @@ This project aims to create a machine learning model that helps breast cancer di
 This project made by Mehmet Akif Ersoy University students
 Yiğit Faruk Demir,
 Hilmi Can Ürlü, 
-Vakıf Beyoğlu,
+Vagıf Beyoğlu,
 Mert Samet Çeliker,
 Gül Karaman
